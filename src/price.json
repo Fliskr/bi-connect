@@ -1,0 +1,1496 @@
+[
+  {
+    "number": "1.       ",
+    "name": "Микросхема ADE-11X",
+    "currency": "шт",
+    "price": "900-00 "
+  },
+  {
+    "number": "2.       ",
+    "name": "Микросхема AT24C16C-SSHM-T",
+    "currency": "шт",
+    "price": "15-00 "
+  },
+  {
+    "number": "3.       ",
+    "name": "Микросхема CD4015BM96",
+    "currency": "шт",
+    "price": " 20-00"
+  },
+  {
+    "number": "4.       ",
+    "name": "Микросхема CD4051BM96",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "5.       ",
+    "name": "Микросхема CD4052BM96",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "6.       ",
+    "name": "Микросхема CD4066BM96 SO14",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "7.       ",
+    "name": "Микросхема DS1307Z",
+    "currency": "шт",
+    "price": " 60-00"
+  },
+  {
+    "number": "8.       ",
+    "name": "Микросхема DS14C232TM",
+    "currency": "шт",
+    "price": " 470-00"
+  },
+  {
+    "number": "9.       ",
+    "name": "Микросхема HEF4053BT.653",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "10.   ",
+    "name": "Микросхема KP1043XA4",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "11.   ",
+    "name": "Микросхема L7808CV",
+    "currency": "шт",
+    "price": " 18-00"
+  },
+  {
+    "number": "12.   ",
+    "name": "Микросхема L78L05ACUTR",
+    "currency": "шт",
+    "price": " 15-00"
+  },
+  {
+    "number": "13.   ",
+    "name": "Микросхема LM1881N DIP8",
+    "currency": "шт",
+    "price": " 120-00"
+  },
+  {
+    "number": "14.   ",
+    "name": "Микросхема LM317T",
+    "currency": "шт",
+    "price": " 25-00"
+  },
+  {
+    "number": "15.   ",
+    "name": "Микросхема LM321MF",
+    "currency": "шт",
+    "price": " 45-00"
+  },
+  {
+    "number": "16.   ",
+    "name": "Микросхема LM324AM",
+    "currency": "шт",
+    "price": " 60-00"
+  },
+  {
+    "number": "17.   ",
+    "name": "Микросхема LM358DR2G SOIC-8",
+    "currency": "шт",
+    "price": " 5-00"
+  },
+  {
+    "number": "18.   ",
+    "name": "Микросхема LM392M",
+    "currency": "шт",
+    "price": " 35-00"
+  },
+  {
+    "number": "19.   ",
+    "name": "Микросхема MAR3SM",
+    "currency": "шт",
+    "price": " 370-00"
+  },
+  {
+    "number": "20.   ",
+    "name": "Микросхема MAR4SM",
+    "currency": "шт",
+    "price": " 400-00"
+  },
+  {
+    "number": "21.   ",
+    "name": "Микросхема MC74AC74D",
+    "currency": "шт",
+    "price": " 90-00"
+  },
+  {
+    "number": "22.   ",
+    "name": "Микросхема MC74AC04D",
+    "currency": "шт",
+    "price": " 77-00"
+  },
+  {
+    "number": "23.   ",
+    "name": "Микросхема MC7805CTG",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "24.   ",
+    "name": "Микросхема PIC16F628A-I/P",
+    "currency": "шт",
+    "price": " 200-00"
+  },
+  {
+    "number": "25.   ",
+    "name": "Микросхема PIC16F876A-I/SP",
+    "currency": "шт",
+    "price": " 350-00"
+  },
+  {
+    "number": "26.   ",
+    "name": "Микросхема PIC16F877A-I/L",
+    "currency": "шт",
+    "price": " 900-00"
+  },
+  {
+    "number": "27.   ",
+    "name": "Микросхема SP485EN",
+    "currency": "шт",
+    "price": " 100-00"
+  },
+  {
+    "number": "28.   ",
+    "name": "Микросхема TL082CDT",
+    "currency": "шт",
+    "price": " 40-00"
+  },
+  {
+    "number": "29.   ",
+    "name": "Транзистор 2N5109",
+    "currency": "шт",
+    "price": " 330-00"
+  },
+  {
+    "number": "30.   ",
+    "name": "Транзистор BC548C",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "31.   ",
+    "name": "Транзистор BC548B",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "32.   ",
+    "name": "Транзистор BC558",
+    "currency": "шт",
+    "price": " 40-00"
+  },
+  {
+    "number": "33.   ",
+    "name": "Транзистор BC846",
+    "currency": "шт",
+    "price": " 15-00"
+  },
+  {
+    "number": "34.   ",
+    "name": "Транзистор BC847",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "35.   ",
+    "name": "Транзистор BC848",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "36.   ",
+    "name": "Транзистор BC856",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "37.   ",
+    "name": "Транзистор BD138",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "38.   ",
+    "name": "Транзистор BFR540",
+    "currency": "шт",
+    "price": " 50-00"
+  },
+  {
+    "number": "39.   ",
+    "name": "Транзистор BFR93A",
+    "currency": "шт",
+    "price": " 25-00"
+  },
+  {
+    "number": "40.   ",
+    "name": "Транзистор PMBFJ310",
+    "currency": "шт",
+    "price": " 65-00"
+  },
+  {
+    "number": "41.   ",
+    "name": "Микросхема AH202",
+    "currency": "шт",
+    "price": "12500-00 "
+  },
+  {
+    "number": "42.   ",
+    "name": "Микросхема MAX3232EWE",
+    "currency": "шт",
+    "price": " 500-00"
+  },
+  {
+    "number": "43.   ",
+    "name": "Симистор ВТА225-800В",
+    "currency": "шт",
+    "price": " 100-00"
+  },
+  {
+    "number": "44.   ",
+    "name": "Транзистор MRF6VP3450",
+    "currency": "шт",
+    "price": " 11000-00"
+  },
+  {
+    "number": "45.   ",
+    "name": "Транзистор MRF374",
+    "currency": "шт",
+    "price": " 11000-00"
+  },
+  {
+    "number": "46.   ",
+    "name": "Транзистор BLF881",
+    "currency": "шт",
+    "price": " 8200-00"
+  },
+  {
+    "number": "47.   ",
+    "name": "Транзистор BLF888A",
+    "currency": "шт",
+    "price": " 15500-00"
+  },
+  {
+    "number": "48.   ",
+    "name": "Транзистор STW15NK90Z",
+    "currency": "шт",
+    "price": " 680-00"
+  },
+  {
+    "number": "49.   ",
+    "name": "Транзистор IRFD9024",
+    "currency": "шт",
+    "price": " 90-00"
+  },
+  {
+    "number": "50.   ",
+    "name": "Транзистор (для БПС) IRFP460",
+    "currency": "шт",
+    "price": " 170-00"
+  },
+  {
+    "number": "51.   ",
+    "name": "Транзистор BFN26",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "52.   ",
+    "name": "Транзистор BLF278",
+    "currency": "шт",
+    "price": " 15000-00"
+  },
+  {
+    "number": "53.   ",
+    "name": "Транзистор КТ911А",
+    "currency": "шт",
+    "price": " 700-00"
+  },
+  {
+    "number": "54.   ",
+    "name": "Транзистор BLF178XR",
+    "currency": "шт",
+    "price": " 18000-00"
+  },
+  {
+    "number": "55.   ",
+    "name": "Блок питания SP-200-27",
+    "currency": "шт",
+    "price": " 6500-00"
+  },
+  {
+    "number": "56.   ",
+    "name": "Микросхема LNBH23L",
+    "currency": "шт",
+    "price": " 170-00"
+  },
+  {
+    "number": "57.   ",
+    "name": "Микросхема NCP1203D6",
+    "currency": "шт",
+    "price": " 150-00"
+  },
+  {
+    "number": "58.   ",
+    "name": "МикросхемаFSL106HR",
+    "currency": "шт",
+    "price": " 100-00"
+  },
+  {
+    "number": "59.   ",
+    "name": "Лента светодиодная RT2-5000 12v White-5mm",
+    "currency": "м",
+    "price": " 600-00"
+  },
+  {
+    "number": "60.   ",
+    "name": "Транзистор D1028UK",
+    "currency": "шт",
+    "price": " 9600-00"
+  },
+  {
+    "number": "61.   ",
+    "name": "Транзистор MRF377H",
+    "currency": "шт",
+    "price": " 8500-00"
+  },
+  {
+    "number": "62.   ",
+    "name": "Транзистор МW6S01GNR1",
+    "currency": "шт",
+    "price": " 1500-00"
+  },
+  {
+    "number": "63.   ",
+    "name": "Транзистор FGH40N60",
+    "currency": "шт",
+    "price": " 300-00"
+  },
+  {
+    "number": "64.   ",
+    "name": "Транзистор STW75NF20",
+    "currency": "шт",
+    "price": " 250-00"
+  },
+  {
+    "number": "65.   ",
+    "name": "Транзистор FGW30N120HD",
+    "currency": "шт",
+    "price": " 1000-00"
+  },
+  {
+    "number": "66.   ",
+    "name": "Транзистор MRFE6VP8600HSR5",
+    "currency": "шт",
+    "price": " 27500-00"
+  },
+  {
+    "number": "67.   ",
+    "name": "Конденсатор EEU-FR1C101",
+    "currency": "шт",
+    "price": " 15-00"
+  },
+  {
+    "number": "68.   ",
+    "name": "Конденсатор EEU-FR1E470",
+    "currency": "шт",
+    "price": " 25-00"
+  },
+  {
+    "number": "69.   ",
+    "name": "Конденсатор EEU-FR1H220",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "70.   ",
+    "name": "Конденсатор EEU-FR1H100B",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "71.   ",
+    "name": "Конденсатор EEU-FR1C221",
+    "currency": "шт",
+    "price": " 20-00"
+  },
+  {
+    "number": "72.   ",
+    "name": "Конденсатор EEU-EE2G680",
+    "currency": "шт",
+    "price": " 250-00"
+  },
+  {
+    "number": "73.   ",
+    "name": "Конденсатор EEU-FR1E331",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "74.   ",
+    "name": "Конденсатор EEU-FR1E681LB",
+    "currency": "шт",
+    "price": " 120-00"
+  },
+  {
+    "number": "75.   ",
+    "name": "Шлейф 14004-01910400",
+    "currency": "шт",
+    "price": " 3800-00"
+  },
+  {
+    "number": "76.   ",
+    "name": "Конденсатор JRB1H220M02000500110000B",
+    "currency": "шт",
+    "price": " 10-00"
+  },
+  {
+    "number": "77.   ",
+    "name": "Конденсатор ECAP 100-50в CD268",
+    "currency": "шт",
+    "price": " 10-00"
+  },
+  {
+    "number": "78.   ",
+    "name": "Конденсатор ECAP 470-50в-105* С-10×20",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "79.   ",
+    "name": "Конденсатор ECAP 1000-10в CD268",
+    "currency": "шт",
+    "price": " 17-00"
+  },
+  {
+    "number": "80.   ",
+    "name": "Конденсатор ECAP 1000-16в-105*С-8×16",
+    "currency": "шт",
+    "price": " 20-00"
+  },
+  {
+    "number": "81.   ",
+    "name": "Конденсатор ECAP2200-16в-105*С10×20",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "82.   ",
+    "name": "Конденсатор ECAP 47-450в",
+    "currency": "шт",
+    "price": " 70-00"
+  },
+  {
+    "number": "83.   ",
+    "name": "Конденсатор ECAP 22-450в",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "84.   ",
+    "name": "Резистор SQP-5W-2.2 Oм 5%\"",
+    "currency": "шт",
+    "price": "70-00 "
+  },
+  {
+    "number": "85.   ",
+    "name": "Электроизоляционная мастика Scotchfil38мм×1.5м.",
+    "currency": "шт",
+    "price": " 1700-00"
+  },
+  {
+    "number": "86.   ",
+    "name": "Вентилятор 1.25эв-2.8-6-220вн «ОТК»",
+    "currency": "шт",
+    "price": " 2300-00"
+  },
+  {
+    "number": "87.   ",
+    "name": "Вентилятор 8314Н",
+    "currency": "шт",
+    "price": " 4000-00"
+  },
+  {
+    "number": "88.   ",
+    "name": "Разъем BNC-C6P",
+    "currency": "шт",
+    "price": " 60-00"
+  },
+  {
+    "number": "89.   ",
+    "name": "Разъем BNC-C58P",
+    "currency": "шт",
+    "price": " 50-00"
+  },
+  {
+    "number": "90.   ",
+    "name": "Тройник BNC-T(1штекер 2гнезда) (мин.н/у 5шт)",
+    "currency": "шт",
+    "price": " 50-00"
+  },
+  {
+    "number": "91.   ",
+    "name": "Стяжка ксс4×200 (100шт)",
+    "currency": "уп.",
+    "price": " 200-00"
+  },
+  {
+    "number": "92.   ",
+    "name": "Спирт изопропиловый 0.5л.\"",
+    "currency": "шт",
+    "price": " 500-00"
+  },
+  {
+    "number": "93.   ",
+    "name": "Припой ПОС-61(0.8мм 100г)с/к\"",
+    "currency": "шт",
+    "price": " 450-00"
+  },
+  {
+    "number": "94.   ",
+    "name": "Припой ПОС-61 (1мм 1м) с/к",
+    "currency": "шт",
+    "price": " 650-00"
+  },
+  {
+    "number": "95.   ",
+    "name": "Микросхема LNBP21PO SO-20",
+    "currency": "шт",
+    "price": " 300-00"
+  },
+  {
+    "number": "96.   ",
+    "name": "Микросхема L7808CV TO220",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "97.   ",
+    "name": "Микросхема L7908CV TO220",
+    "currency": "шт",
+    "price": " 25-00"
+  },
+  {
+    "number": "98.   ",
+    "name": "Конденсатор Сар25-47 EEUFR1E470 25B/47мкф",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "99.   ",
+    "name": "Конденсатор Сар50-22 EEU-FR1Н220 50B/22мкф",
+    "currency": "шт",
+    "price": " 30-00"
+  },
+  {
+    "number": "100.           ",
+    "name": "Конденсатор Сар50-10 EEU-FR1Н100В 50B/10мкф",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "101.           ",
+    "name": "Транзистор BFP420 SOT343",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "102.           ",
+    "name": "Резистор 0805 24. 0  5%",
+    "currency": "шт",
+    "price": "5-00"
+  },
+  {
+    "number": "103.           ",
+    "name": "Конденсатор EEEFK1J221AQ 220мкф. 63в\"",
+    "currency": "шт",
+    "price": "120-00"
+  },
+  {
+    "number": "104.           ",
+    "name": "Конденсатор EEEТС1V221P220 мкф 35в",
+    "currency": "шт",
+    "price": "90-00"
+  },
+  {
+    "number": "105.           ",
+    "name": "Конденсатор EEUFR1V331U 330 мкф 35в",
+    "currency": "шт",
+    "price": "80-00"
+  },
+  {
+    "number": "106.           ",
+    "name": "Конденсатор EEUFS1V331L 330мкф 35в",
+    "currency": "шт",
+    "price": "70-00"
+  },
+  {
+    "number": "107.           ",
+    "name": "Конденсатор EEUFR1V330B 33мкф 35В",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "108.           ",
+    "name": "Конденсатор EEUFR1V680B 68мкф 35В",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "109.           ",
+    "name": "Конденсатор EEUFR1V101 100мкф 35В",
+    "currency": "шт",
+    "price": "35-00"
+  },
+  {
+    "number": "110.           ",
+    "name": "Конденсатор EEUFR1V221 220мкф 35",
+    "currency": "шт",
+    "price": "40-00"
+  },
+  {
+    "number": "111.           ",
+    "name": "Конденсатор EEUFR1V681 680мкф 35",
+    "currency": "шт",
+    "price": "45-00"
+  },
+  {
+    "number": "112.           ",
+    "name": "Конденсатор EEUFR1V821L 820мкф 35В",
+    "currency": "шт",
+    "price": "65-00"
+  },
+  {
+    "number": "113.           ",
+    "name": "Конденсатор EEUFR1V222 2200мкф 35В",
+    "currency": "шт",
+    "price": "80-00"
+  },
+  {
+    "number": "114.           ",
+    "name": "Конденсатор EEUFS1H681 680мкф 50В",
+    "currency": "шт",
+    "price": "140-00"
+  },
+  {
+    "number": "115.           ",
+    "name": "Конденсатор EEUFR1H100 10мкф 50В",
+    "currency": "шт",
+    "price": "25-00"
+  },
+  {
+    "number": "116.           ",
+    "name": "Конденсатор EEUFR1H220 22мкф 50В",
+    "currency": "шт",
+    "price": "25-00"
+  },
+  {
+    "number": "117.           ",
+    "name": "Конденсатор EEUFS1H821L 820мкф 50В",
+    "currency": "шт",
+    "price": "160-00"
+  },
+  {
+    "number": "118.           ",
+    "name": "Конденсатор EEUFR1H102B 1000мкф 50В",
+    "currency": "шт",
+    "price": "165-00"
+  },
+  {
+    "number": "119.           ",
+    "name": "Конденсатор EEUFR1E470  47мкф 25В",
+    "currency": "шт",
+    "price": "20-00"
+  },
+  {
+    "number": "120.           ",
+    "name": "Конденсатор EEUFR1E 151 150мкф 25В",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "121.           ",
+    "name": "Конденсатор EEUFR1E 331 330мкф 25В",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "122.           ",
+    "name": "Конденсатор EEUFR1E 471 470мкф 25В",
+    "currency": "шт",
+    "price": "40-00"
+  },
+  {
+    "number": "123.           ",
+    "name": "Конденсатор EEUFR1E 821 820мкф 25В",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "124.           ",
+    "name": "Конденсатор EEEFK1V 221P 35В 220мкф «F»",
+    "currency": "шт",
+    "price": "25-00"
+  },
+  {
+    "number": "125.           ",
+    "name": "Конденсатор EEЕFК1V680XP SMD 68мкф 35В",
+    "currency": "шт",
+    "price": "40-00"
+  },
+  {
+    "number": "126.           ",
+    "name": "Конденсатор EEEFK1E 101P 100мкф 16B",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "127.           ",
+    "name": "Диод BAV99.SMD.SOT-23\"",
+    "currency": "шт",
+    "price": "5-00"
+  },
+  {
+    "number": "128.           ",
+    "name": "Транзистор BSS138 SOT23",
+    "currency": "шт",
+    "price": "25-00"
+  },
+  {
+    "number": "129.           ",
+    "name": "Микросхема MAX976ESA+.2-компаратор 20нс Ind SOB\"",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "130.           ",
+    "name": "Микросхема LM258DT SO8",
+    "currency": "шт",
+    "price": "30-00"
+  },
+  {
+    "number": "131.           ",
+    "name": "Микросхема MC74HC00ADR2G",
+    "currency": "шт",
+    "price": "50-00"
+  },
+  {
+    "number": "132.           ",
+    "name": "Микросхема MC74HC02ADR2G",
+    "currency": "шт",
+    "price": "55-00"
+  },
+  {
+    "number": "133.           ",
+    "name": "Микросхема TC1047AVNBTR датчик температуры 2С.12С\"",
+    "currency": "шт",
+    "price": "75-00"
+  },
+  {
+    "number": "134.           ",
+    "name": "Микросхема PIC18F67J60-I/PT TQFP-64L",
+    "currency": "шт",
+    "price": "500-00"
+  },
+  {
+    "number": "135.           ",
+    "name": "Микросхема 24AA02E48T-I/OT",
+    "currency": "шт",
+    "price": "50-00"
+  },
+  {
+    "number": "136.           ",
+    "name": "Микросхема PIC16F690-I/SO",
+    "currency": "шт",
+    "price": "230-00"
+  },
+  {
+    "number": "137.           ",
+    "name": "Микросхема LP2951-50DR",
+    "currency": "шт",
+    "price": "50-00"
+  },
+  {
+    "number": "138.           ",
+    "name": "Микросхема MASWSS0161",
+    "currency": "шт",
+    "price": "500-00"
+  },
+  {
+    "number": "139.           ",
+    "name": "Микросхема ACS712ELCTR-20A PBF ALLEGRO",
+    "currency": "шт",
+    "price": "300-00"
+  },
+  {
+    "number": "140.           ",
+    "name": "Микросхема LMH0001SQ/NOPB",
+    "currency": "шт",
+    "price": "150-00"
+  },
+  {
+    "number": "141.           ",
+    "name": "Индикатор ЖКИ WH1602A-YGH-CTK",
+    "currency": "шт",
+    "price": "600-00"
+  },
+  {
+    "number": "142.           ",
+    "name": "Микросхема GALI-74",
+    "currency": "шт",
+    "price": "450-00"
+  },
+  {
+    "number": "143.           ",
+    "name": "Транзистор IRF9540N TO-220",
+    "currency": "шт",
+    "price": "20-00"
+  },
+  {
+    "number": "144.           ",
+    "name": "Микросхема LM75AD",
+    "currency": "шт",
+    "price": "20-00"
+  },
+  {
+    "number": "145.           ",
+    "name": "Конденсатор EEUFS1H681",
+    "currency": "шт",
+    "price": "170-00"
+  },
+  {
+    "number": "146.           ",
+    "name": "Микросхема MAX4372TEUK+T",
+    "currency": "шт",
+    "price": "200-00"
+  },
+  {
+    "number": "147.           ",
+    "name": "Вентилятор JF0615B1H",
+    "currency": "шт",
+    "price": "500-00"
+  },
+  {
+    "number": "148.           ",
+    "name": "Вентилятор 109P0405H3013",
+    "currency": "шт",
+    "price": "1500-00"
+  },
+  {
+    "number": "149.           ",
+    "name": "Вентилятор MB40201V-A99",
+    "currency": "шт",
+    "price": "650-00"
+  },
+  {
+    "number": "150.           ",
+    "name": "Вентилятор EFB0412HD",
+    "currency": "шт",
+    "price": "800-00"
+  },
+  {
+    "number": "151.           ",
+    "name": "Вентилятор JF0625B1HR",
+    "currency": "шт",
+    "price": "600-00"
+  },
+  {
+    "number": "152.           ",
+    "name": "Вентилятор 9G0812G1011",
+    "currency": "шт",
+    "price": "240-00"
+  },
+  {
+    "number": "153.           ",
+    "name": "Вентилятор YDWF74S4-422N-350-220V",
+    "currency": "шт",
+    "price": "8500-00"
+  },
+  {
+    "number": "154.           ",
+    "name": "Вентилятор 4418N",
+    "currency": "шт",
+    "price": "3000-00"
+  },
+  {
+    "number": "155.           ",
+    "name": "Вентилятор RQD8025MS 12VDC",
+    "currency": "шт",
+    "price": "100-00"
+  },
+  {
+    "number": "156.           ",
+    "name": "Вентилятор RQA12038HST",
+    "currency": "шт",
+    "price": "450-00"
+  },
+  {
+    "number": "157.           ",
+    "name": "Вентилятор MB40201V2-A99",
+    "currency": "шт",
+    "price": "650-00"
+  },
+  {
+    "number": "158.           ",
+    "name": "Микросхема MAX3238CDB",
+    "currency": "шт",
+    "price": "400-00"
+  },
+  {
+    "number": "159.           ",
+    "name": "Микросхема ST232BWR",
+    "currency": "шт",
+    "price": "40-00"
+  },
+  {
+    "number": "160.           ",
+    "name": "Конденсатор К50-35-16В-1мкф",
+    "currency": "шт",
+    "price": "3-00"
+  },
+  {
+    "number": "161.           ",
+    "name": "Конденсатор К50-35-16В-2.2мкф\"",
+    "currency": "шт",
+    "price": "5-00"
+  },
+  {
+    "number": "162.           ",
+    "name": "Конденсатор К50-35-25В-4.7мкф\"",
+    "currency": "шт",
+    "price": "5-00"
+  },
+  {
+    "number": "163.           ",
+    "name": "Конденсатор К50-35-25В-470мкф",
+    "currency": "шт",
+    "price": "7-00"
+  },
+  {
+    "number": "164.           ",
+    "name": "Конденсатор К50-35-50В-1мкф",
+    "currency": "шт",
+    "price": "5-00"
+  },
+  {
+    "number": "165.           ",
+    "name": "Конденсатор К50-35-50В-2.2мкф\"",
+    "currency": "шт",
+    "price": "5-00"
+  },
+  {
+    "number": "166.           ",
+    "name": "Конденсатор К50-35-50В-4.7мкф\"",
+    "currency": "шт",
+    "price": "7-00"
+  },
+  {
+    "number": "167.           ",
+    "name": "Конденсатор К50-35-50В-47мкф",
+    "currency": "шт",
+    "price": "7-00"
+  },
+  {
+    "number": "168.           ",
+    "name": "Транзистор FGH40N60UFDTU(TO-247)",
+    "currency": "шт",
+    "price": "250-00"
+  },
+  {
+    "number": "169.           ",
+    "name": "Транзистор STW75NF20 (TO-247)",
+    "currency": "шт",
+    "price": "200-00"
+  },
+  {
+    "number": "170.           ",
+    "name": "Транзистор FGW30N120HD (TO-247)",
+    "currency": "шт",
+    "price": "950-00"
+  },
+  {
+    "number": "171.           ",
+    "name": "Транзистор MW6S010GNR1 STYLE-1 TO-272-2",
+    "currency": "шт",
+    "price": "1100-00"
+  },
+  {
+    "number": "172.           ",
+    "name": "Диод RHRP15120. корпус ТО-220АС\"",
+    "currency": "шт",
+    "price": "180-00"
+  },
+  {
+    "number": "173.           ",
+    "name": "Диодный мост BR256L",
+    "currency": "шт",
+    "price": "450-00"
+  },
+  {
+    "number": "174.           ",
+    "name": "Разъём RJ-45 8P8C",
+    "currency": "шт",
+    "price": "7-00"
+  },
+  {
+    "number": "175.           ",
+    "name": "Разъём N Straight Plug Crimp G1 (RG-58C/U) crimp /crimp Telegartner J01020A0108",
+    "currency": "шт",
+    "price": "500-00"
+  },
+  {
+    "number": "176.           ",
+    "name": "Разъём Strain Reliefs 1 (RG-58C/U) G41(0.6/2.8-4.7) RAL9005 jet black Telegartner  B00081A1272\"",
+    "currency": "шт",
+    "price": "40-00"
+  },
+  {
+    "number": "177.           ",
+    "name": "Разъём N Panel Jack Crimp G1 (RG-58C/U) crimp /crimp Telegartner J01021A0152",
+    "currency": "шт",
+    "price": "1100-00"
+  },
+  {
+    "number": "178.           ",
+    "name": "Разъем N Panel Receptacle. female Telegartner J01021H1082\"",
+    "currency": "шт",
+    "price": "600-00"
+  },
+  {
+    "number": "179.           ",
+    "name": "Разъем N Adaptor f-f IP68 Telegartner J01024A0004",
+    "currency": "шт",
+    "price": "900-00"
+  },
+  {
+    "number": "180.           ",
+    "name": "Разъем N Adaptor m-m  Telegartner J01024J1094",
+    "currency": "шт",
+    "price": "1100-00"
+  },
+  {
+    "number": "181.           ",
+    "name": "Разъем N Straight JackCrimp G1(RG-58C/U) crimp /crimp Telegartner J01021A0063",
+    "currency": "шт",
+    "price": "1000-00"
+  },
+  {
+    "number": "182.           ",
+    "name": "Разъем TNC Straight JackCrimp G1(RG-58C/U) crimp /crimp Telegartner J01011A2265",
+    "currency": "шт",
+    "price": "350-00"
+  },
+  {
+    "number": "183.           ",
+    "name": "Разъем TNC Adaptor f-f  Telegartner J01014A2618",
+    "currency": "шт",
+    "price": "500-00"
+  },
+  {
+    "number": "184.           ",
+    "name": "Разъем BNC T Adaptor f-m-f  Telegartner J01004C0616",
+    "currency": "шт",
+    "price": "1200-00"
+  },
+  {
+    "number": "185.           ",
+    "name": "SUNON MB40201VX-A99",
+    "currency": "шт",
+    "price": "363-00"
+  },
+  {
+    "number": "186.           ",
+    "name": "SUNON PMD1206 PTB1-A",
+    "currency": "шт",
+    "price": "690-00"
+  },
+  {
+    "number": "187.           ",
+    "name": "MB60251V1-0000-A99",
+    "currency": "шт",
+    "price": "507-00"
+  },
+  {
+    "number": "188.           ",
+    "name": "PMD1206PMB1A",
+    "currency": "шт",
+    "price": "1523-00"
+  },
+  {
+    "number": "189.           ",
+    "name": "PAPST 8214JN",
+    "currency": "шт",
+    "price": "4100-00"
+  },
+  {
+    "number": "190.           ",
+    "name": "SunAce 109PO405H3013",
+    "currency": "шт",
+    "price": "2340-00"
+  },
+  {
+    "number": "191.           ",
+    "name": "SUNON A2259-HBT",
+    "currency": "шт",
+    "price": "8190-00"
+  },
+  {
+    "number": "192.           ",
+    "name": "PAPST 4314",
+    "currency": "шт",
+    "price": "3217-00"
+  },
+  {
+    "number": "193.           ",
+    "name": "PAPST 8318H",
+    "currency": "шт",
+    "price": "3744-00"
+  },
+  {
+    "number": "194.           ",
+    "name": "PAPST 8414N",
+    "currency": "шт",
+    "price": "1989-00"
+  },
+  {
+    "number": "195.           ",
+    "name": "FQAN8NIOOC 1",
+    "currency": "шт",
+    "price": "477-00"
+  },
+  {
+    "number": "196.           ",
+    "name": "G27N120BN 72A",
+    "currency": "шт",
+    "price": "457-00"
+  },
+  {
+    "number": "197.           ",
+    "name": "FGH50N6S2D",
+    "currency": "шт",
+    "price": "450-00"
+  },
+  {
+    "number": "198.           ",
+    "name": "SFP9520",
+    "currency": "шт",
+    "price": "367-00"
+  },
+  {
+    "number": "199.           ",
+    "name": "1N5927BG",
+    "currency": "шт",
+    "price": "60-00"
+  },
+  {
+    "number": "200.           ",
+    "name": "R30120G2",
+    "currency": "шт",
+    "price": "407-00"
+  },
+  {
+    "number": "201.           ",
+    "name": "MUR4100ERLG",
+    "currency": "шт",
+    "price": "55-00"
+  },
+  {
+    "number": "202.           ",
+    "name": "HCNW3120",
+    "currency": "шт",
+    "price": "329-00"
+  },
+  {
+    "number": "203.           ",
+    "name": "SUNON PMD2408PMB1-A(2)",
+    "currency": "шт",
+    "price": "1922-00"
+  },
+  {
+    "number": "204.           ",
+    "name": "SAN ASE 80 MODEL 109P0812A201",
+    "currency": "шт",
+    "price": "2997-00"
+  },
+  {
+    "number": "205.           ",
+    "name": "SAN ASE 80 MODEL 9GV0848P1G03",
+    "currency": "шт",
+    "price": "4197-00"
+  },
+  {
+    "number": "206.           ",
+    "name": "SAN ASE 40 MODEL 109P0424J3023",
+    "currency": "шт",
+    "price": "4777-00"
+  },
+  {
+    "number": "207.           ",
+    "name": "EBMPAST  4114 NH3",
+    "currency": "шт",
+    "price": "7199-00"
+  },
+  {
+    "number": "208.           ",
+    "name": "4184 NXH",
+    "currency": "шт",
+    "price": "4700-00"
+  },
+  {
+    "number": "209.           ",
+    "name": "ABB SD203 50A",
+    "currency": "шт",
+    "price": "3900-00"
+  },
+  {
+    "number": "210.           ",
+    "name": "FF412VHN",
+    "currency": "шт",
+    "price": "1300-00"
+  },
+  {
+    "number": "211.           ",
+    "name": "LTC 3416 EFE",
+    "currency": "шт",
+    "price": "980-00"
+  },
+  {
+    "number": "212.           ",
+    "name": "НАКОНЕЧНИК ДЛЯ ПАЯЛЬНОЙ СТАНЦИИ ATP-8180",
+    "currency": "шт",
+    "price": "900-00"
+  },
+  {
+    "number": "213.           ",
+    "name": "НАКОНЕЧНИК ДЛЯ ПАЯЛЬНОЙ СТАНЦИИ ATP-8482",
+    "currency": "шт",
+    "price": "900-00"
+  },
+  {
+    "number": "214.           ",
+    "name": "НАКОНЕЧНИК ДЛЯ ПАЯЛЬНОЙ СТАНЦИИ ATP-8170",
+    "currency": "шт",
+    "price": "900-00"
+  },
+  {
+    "number": "215.           ",
+    "name": "ТРАНЗИСТОР GB15B60KD",
+    "currency": "шт",
+    "price": "450-00"
+  },
+  {
+    "number": "216.           ",
+    "name": "CLEANER 400ML ",
+    "currency": "Шт ",
+    "price": "580-00"
+  },
+  {
+    "number": "217.           ",
+    "name": "ASAHI   CF-10 (D-1MM/250ГР)",
+    "currency": "шт",
+    "price": "1880-00"
+  },
+  {
+    "number": "218.           ",
+    "name": "REXANT FLUXOFF",
+    "currency": "шт",
+    "price": "650-00"
+  },
+  {
+    "number": "219.           ",
+    "name": "PARITY 24029 400ML ",
+    "currency": "Шт ",
+    "price": "770-00"
+  },
+  {
+    "number": "220.           ",
+    "name": "АНТИСТАТИЧЕСКАЯ КИСТОЧКА MD-0927",
+    "currency": "шт",
+    "price": "150-00"
+  },
+  {
+    "number": "221.           ",
+    "name": "ФЛЮС ФКСП 20МЛ",
+    "currency": "шт",
+    "price": "155-00"
+  },
+  {
+    "number": "222.           ",
+    "name": "ПЕРЕХОДНИК SB-312. SMA- ШТЕКЕР. BNC-ГНЕЗДО\"",
+    "currency": "Шт ",
+    "price": "350-00"
+  },
+  {
+    "number": "223.           ",
+    "name": "БЛОК РОЗЕТОК СО ШНУРОМ 19^^  MDX-PDU-16A",
+    "currency": "шт",
+    "price": "900-00"
+  },
+  {
+    "number": "224.           ",
+    "name": "АКРИЛОВЫЙ ЛАК PLASTIK-71",
+    "currency": "шт",
+    "price": "365-00"
+  },
+  {
+    "number": "225.           ",
+    "name": "ПОДШИПНИКИ 6001 Z     ",
+    "currency": "Шт",
+    "price": "170-00"
+  },
+  {
+    "number": "226.           ",
+    "name": "VENTS OB 4E 350",
+    "currency": "шт",
+    "price": "10450-00"
+  },
+  {
+    "number": "227.           ",
+    "name": "SUNON DP200A",
+    "currency": "шт",
+    "price": "3900-00"
+  },
+  {
+    "number": "228.           ",
+    "name": "Коаксиальный кабель  SAT 703 (netk o)  ",
+    "currency": "М ",
+    "price": "52-00"
+  },
+  {
+    "number": "229.           ",
+    "name": "Кабель сетевой(медь) UTR cat 5e- 4 пары.24 AWG\"",
+    "currency": "м",
+    "price": "25-00"
+  },
+  {
+    "number": "230.           ",
+    "name": "Кабель Canare L2T2S BLK",
+    "currency": "м",
+    "price": "195-00"
+  },
+  {
+    "number": "231.           ",
+    "name": "Разъем накручивающийся  BNC. RG-5 8  \"",
+    "currency": "Шт",
+    "price": "73-00"
+  },
+  {
+    "number": "232.           ",
+    "name": "Разъем обжимной BNC. RG-59\"",
+    "currency": "шт",
+    "price": "75-00"
+  },
+  {
+    "number": "233.           ",
+    "name": "Разъем BNC PK-75",
+    "currency": "шт",
+    "price": "187-00"
+  },
+  {
+    "number": "234.           ",
+    "name": "F-конектор для SAT-703   ",
+    "currency": "шт",
+    "price": "19-00"
+  },
+  {
+    "number": "235.           ",
+    "name": "вилка DHB-44 M 44pin",
+    "currency": "шт",
+    "price": "353-00"
+  },
+  {
+    "number": "236.           ",
+    "name": "Гильза кабельная медная  ГМЛ-16-6",
+    "currency": "шт",
+    "price": "24-00"
+  },
+  {
+    "number": "237.           ",
+    "name": "Консоль 300мм с опорой    ",
+    "currency": "шт",
+    "price": "545-00"
+  },
+  {
+    "number": "238.           ",
+    "name": "Муфта ЗПТ 40мм",
+    "currency": "шт",
+    "price": "80-00"
+  },
+  {
+    "number": "239.           ",
+    "name": "Разъем RG-12 6p6c",
+    "currency": "шт",
+    "price": "11-00"
+  },
+  {
+    "number": "240.           ",
+    "name": "Разъем питания KPPX-4P    ",
+    "currency": "шт",
+    "price": "900-00"
+  },
+  {
+    "number": "241.           ",
+    "name": "Адаптер N female на N female SPINNER ",
+    "currency": "шт",
+    "price": "723-00"
+  },
+  {
+    "number": "242.           ",
+    "name": "Адаптер 7-16 male на N male SPINNER",
+    "currency": "шт",
+    "price": "2557-00"
+  },
+  {
+    "number": "243.           ",
+    "name": "Адаптер 7-16 male на N female SPINNER  ",
+    "currency": "шт",
+    "price": "2533-00"
+  },
+  {
+    "number": "244.           ",
+    "name": "Адаптер 7-16 female на N male SPINNER",
+    "currency": "шт",
+    "price": "2570-00"
+  },
+  {
+    "number": "245.           ",
+    "name": "Транзистор MRF151G корпус 375-04",
+    "currency": "шт",
+    "price": "8867-00"
+  },
+  {
+    "number": "246.           ",
+    "name": "Разъем 7/8* EIA под фидер  7/8* ",
+    "currency": "шт",
+    "price": "5517-00"
+  },
+  {
+    "number": "247.           ",
+    "name": "Разъем 7/8* EIA под фидер  1/2",
+    "currency": "шт",
+    "price": "4898-00"
+  },
+  {
+    "number": "248.           ",
+    "name": "Разъем N под фидер  7/8* male ",
+    "currency": "шт",
+    "price": "1400-00"
+  },
+  {
+    "number": "249.           ",
+    "name": "Разъем 7/16* под фидер  7/8* female",
+    "currency": "шт",
+    "price": "1500-00"
+  }
+]

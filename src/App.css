@@ -1,0 +1,205 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background-color:#4a25c2;
+  min-height: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #c4e9eb;
+  padding: 25px 0 25px 0 ;
+  min-width:960px;
+}
+
+.App-header .header-row {
+  margin: 0 auto;
+  width: 960px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.App-header .logo {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header .logo-image {
+  width: 200px;
+  height: 50px;
+  background-image: url("./logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 40px 0;
+  cursor: pointer;
+}
+
+.App-header .logo-title {
+  width: 130px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.App-header .page-title{
+  font-size:32px;
+  font-weight: bold;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.App-header .contacts {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.App-header .contacts-city {
+  font-size: 18px;
+}
+
+.App-header .contacts-working-hours {
+  font-size: 14px;
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header .contacts-phones {
+  display: flex;
+  flex-direction: column;
+  margin-bottom:10px;
+}
+
+.App-header .contacts-phone {
+  color: #9bd3d9;
+  font-size:18px;
+
+}
+
+.App-header .contacts-phone i {
+  margin-right:4px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+  /* border-radius: 5px; */
+  /* border:1px solid #d8c363; */
+  width: 960px;
+  cursor: pointer;
+  margin-top: 5px;
+  overflow: hidden;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding-bottom:15px;
+}
+
+.menu-item {
+  padding: 8px 15px;
+  border-bottom: 1px solid transparent;
+  text-decoration: none;
+  color: #226;
+  margin:0 8px;
+
+}
+
+.menu-item:hover {
+  border-bottom: 1px solid #226;
+}
+
+.menu-item-active {
+  color: #333;
+  background:#eee;
+  border-bottom: 1px solid #226;
+}
+
+.main-page{
+  display:flex;
+  flex-direction: column;
+  margin:0 auto;
+  width:960px;
+  padding: 24px 0;
+  color:#111;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-page__title{
+  text-align: center;
+  font-size:22px;
+  line-height: 26px;
+  text-decoration: underline;
+  margin-bottom:16px;
+}
+
+.main-page__subtitle{
+  text-align: center;
+  font-size:18px;
+  line-height: 22px;
+  text-decoration: underline;
+  margin-bottom:12px;
+}
+
+.main-page__text{
+  width:600px;
+  color:#666;
+  text-align: center;
+}
+
+.price-page{
+  display:flex;
+  flex-direction: column;
+  margin:0 auto;
+  width:960px;
+  padding: 24px 0;
+  color:#111;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacts-page{
+  display:flex;
+  flex-direction: column;
+  margin:0 auto;
+  padding:16px 16px;
+  width:960px;
+  padding: 24px 0;
+  color:#111;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.contacts-page__title{
+  font-size:22px;
+}
+
+.contacts-page__text{
+font-size:18px;
+  margin:8px 0;
+}
+
+.contacts-page__text a{
+  margin-left:5px;
+  color:#111;
+}
+
+.contacts-page__text i{
+  margin-right:5px;
+}
+
+.contacts-map{
+  width:100%;
+  margin:0 auto;
+  display: flex;
+  justify-content: center;
+}
